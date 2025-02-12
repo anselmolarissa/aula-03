@@ -1,3 +1,1 @@
-X = 1 
-
-print (X)
+print ('aula03')
